@@ -1,10 +1,6 @@
 # Planilhas-inteligentes
 Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
 </p>
 
 <p align="center">

@@ -20,22 +20,12 @@ Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Planilha Inteligente
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Desafio de Projeto Como organizar sua vida Financeira com Planilhas Inteligentes e IA da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar uma Planilha Inteligente - Dashboard
-
-
 
 ## 💻 Tecnologias utilizadas no projeto
 

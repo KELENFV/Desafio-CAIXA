@@ -21,11 +21,11 @@ Projeto inovador que promete transformar radicalmente a maneira como os benefici
 ## 💻 Introdução
 O Assistente Virtual Benefícios Sociais CAIXA é uma iniciativa revolucionária voltada para melhorar a comunicação entre os beneficiários dos programas sociais federais, estaduais e municipais e os serviços oferecidos. Com foco inicial no Programa Bolsa Família, o projeto foi concebido para expandir suas funcionalidades e abranger outros benefícios sociais no futuro.
 
-##    Potencial Transformador
+## 🤖 Potencial Transformador
 O Assistente Virtual Benefícios Sociais CAIXA tem o potencial de transformar significativamente a interação entre os beneficiários e os programas sociais. Seus principais impactos incluem:
-•	Respostas ágeis e precisas em tempo real: Melhorando a experiência do usuário.
-•	Redução da sobrecarga nos canais de atendimento tradicionais: Aliviando a demanda nos atendimentos físicos e telefônicos.
-•	Inclusão digital e modernização dos serviços públicos: Tornando os serviços sociais mais acessíveis a todos os beneficiários.
+🤖	Respostas ágeis e precisas em tempo real: Melhorando a experiência do usuário.
+🤖	Redução da sobrecarga nos canais de atendimento tradicionais: Aliviando a demanda nos atendimentos físicos e telefônicos.
+🤖	Inclusão digital e modernização dos serviços públicos: Tornando os serviços sociais mais acessíveis a todos os beneficiários.
 
 ##    Conclusão
 Este projeto representa um avanço significativo na transformação digital CAIXA e no atendimento social no Brasil. Com uma abordagem inovadora e com o uso de tecnologias avançadas, o assistente virtual redefinirá a experiência dos beneficiários, tornando os serviços sociais mais acessíveis, eficientes e modernos. Este é apenas o começo de uma jornada de transformação que promete trazer mudanças significativas para milhões de brasileiros.

@@ -1,5 +1,13 @@
 # Assistente Virtual Benefícios Sociais CAIXA: Revolucionando a Experiência dos Beneficiários
 Uma Nova Era no Atendimento Social
+
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="300"
+/>
+</p>
+
 <p align="center">
 </p>
 

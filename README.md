@@ -11,18 +11,7 @@ Uma Nova Era no Atendimento Social
 <p align="center">
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
+
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Desafio CAIXA - Criando Impacto Social com IA da CAIXA
 
@@ -39,7 +28,7 @@ O Assistente Virtual Benefícios Sociais CAIXA tem o potencial de transformar si
 •	Inclusão digital e modernização dos serviços públicos: Tornando os serviços sociais mais acessíveis a todos os beneficiários.
 
 ##    Conclusão
-O projeto Assistente Virtual Benefícios Sociais CAIXA representa um avanço significativo na transformação digital do atendimento social no Brasil. Com uma abordagem inovadora e o uso de tecnologias avançadas, o assistente virtual está redefinindo a experiência dos beneficiários, tornando os serviços sociais mais acessíveis, eficientes e modernos. Este é apenas o começo de uma jornada de transformação que promete trazer mudanças significativas para milhões de brasileiros.
+Este projeto representa um avanço significativo na transformação digital CAIXA e no atendimento social no Brasil. Com uma abordagem inovadora e com o uso de tecnologias avançadas, o assistente virtual redefinirá a experiência dos beneficiários, tornando os serviços sociais mais acessíveis, eficientes e modernos. Este é apenas o começo de uma jornada de transformação que promete trazer mudanças significativas para milhões de brasileiros.
 
 ## 📚 Materiais
 - [ChatGPT](https://chat.openai.com/) 

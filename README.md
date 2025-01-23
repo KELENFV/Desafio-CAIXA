@@ -23,8 +23,11 @@ O Assistente Virtual Benefícios Sociais CAIXA é uma iniciativa revolucionária
 
 ## 🤖 Potencial Transformador
 O Assistente Virtual Benefícios Sociais CAIXA tem o potencial de transformar significativamente a interação entre os beneficiários e os programas sociais. Seus principais impactos incluem:
+</p>
 🤖	Respostas ágeis e precisas em tempo real: Melhorando a experiência do usuário.
+</p>
 🤖	Redução da sobrecarga nos canais de atendimento tradicionais: Aliviando a demanda nos atendimentos físicos e telefônicos.
+</p>
 🤖	Inclusão digital e modernização dos serviços públicos: Tornando os serviços sociais mais acessíveis a todos os beneficiários.
 
 ##    Conclusão
